@@ -11,9 +11,9 @@
 	</div>
 </div>
 <div
-	class="w-full flex flex-col gap-6 items-center sm:flex-row sm:gap-12 sm:items-stretch p-4 sm:px-7"
+	class="w-full flex flex-col gap-6 items-center sm:flex-row sm:gap-12 sm:items-stretch p-5 sm:px-8"
 >
-	<div class="mockup-code w-full -z-10">
+	<div class="mockup-code w-full sm:grow -z-10">
 		<pre data-prefix="$" class="text-gray-400"><code>who-are-you</code></pre>
 		<div class="px-6 pt-1">
 			<code
@@ -63,5 +63,5 @@
 			>
 		</div>
 	</div>
-	<img src="/images/me.png" class="w-96" alt="me" />
+	<img src="/images/me.png" class="w-96 shrink-0" alt="me" />
 </div>
