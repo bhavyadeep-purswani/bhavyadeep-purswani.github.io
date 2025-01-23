@@ -1,7 +1,7 @@
 <script lang="ts">
 	import AboutMe from './components/AboutMe.svelte';
 	import ContactMeComponent from './components/ContactMeComponent.svelte';
-	import ExperienceComponent from './components/ExperienceComponent.svelte';
+	import ExperienceComponent from './components/experience_component.ts/ExperienceComponent.svelte';
 	import IntroComponent from './components/IntroComponent.svelte';
 	import ProjectsComponent from './components/ProjectsComponent.svelte';
 	import SkillsComponent from './components/SkillsComponent.svelte';
