@@ -38,7 +38,7 @@ export const journeySteps = [
         visible: false,
         bgColor: 'bg-[#183A37]',
         timePeriod: "JUL 2024 - DEC 2024",
-        subtitle: "Co-founder & CTO",
+        subtitle: "Founding Team | Senior Frontend Developer",
         projects: new Map<string, string>([
             ["End-to-End platform for listing and booking events", "<b>Single handedly built the entire frontend</b>, consisting of two portals: User and Partner. <br /><br /><b>User Portal:</b> Included features like cataloging (Listing, searching, filtering etc.), ticketing, checkout, ticket history etc. <br /><b>Partner Portal:</b> Included features like vendor onboarding, creating events, event approvals, event management etc. <br /><br /><b>Tech Used:</b> SvelteKit, TypeScript, TailwindCSS and other UI libraries for development, Docker, Kubernetes and AWS for deployment. <br /><br />Launched a successful pilot with BLR Hubba (30 Nov-15 Dec 2024). Traffic: <b>10-11k sessions with 1k bookings per day.</b>"],
         ]),
