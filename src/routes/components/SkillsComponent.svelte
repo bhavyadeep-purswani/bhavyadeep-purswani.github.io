@@ -3,6 +3,7 @@
 	import GradientText from './GradientText.svelte';
 	import { onMount } from 'svelte';
 	let skills = [
+		{ icon: '/icons/react.png', title: 'React', visible: false },
 		{ icon: '/icons/svelte.png', title: 'SvelteKit', visible: false },
 		{ icon: '/icons/typescript.png', title: 'TypeScript', visible: false },
 		{ icon: '/icons/flutter.png', title: 'Flutter', visible: false },
